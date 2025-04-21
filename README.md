@@ -1,6 +1,10 @@
 ## Hi there, I'm Sherry 👋
 
-I'm a software engineer with experience in backend development, distributed systems, and ML infrastructure. I just wrapped up a batch at the [Recurse Center](https://www.recurse.com/), where I focused on computer systems, programming languages, and Rust.
+I'm a software engineer with experience in backend development, distributed systems, and ML infrastructure. 
+
+I just wrapped up a batch at the [Recurse Center](https://www.recurse.com/), where I focused on computer systems, programming languages, and Rust. Prior to this, I was at Lyft, where I worked first in Payments and then in Marketplace (Pricing/Matching).
+
+Get in touch: [LinkedIn](https://www.linkedin.com/in/sherry-bai/)
 
 <!--
 **sherrybai/sherrybai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
